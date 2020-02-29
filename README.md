@@ -1,0 +1,2 @@
+AWSの学習用。
+EC2、RDS（MySQL）、ELB（ALB）の構成。
